@@ -1,6 +1,6 @@
 # Análisis del Problema Domain Driven Design 
 
-## 1. Creacion de Bit Picture Libreria 
+## 1. Creación de Bit Picture Libreria 
 
 ## 2. Modelamiento de Dominio
 
